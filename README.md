@@ -22,7 +22,7 @@ Berikut ini adalah cara menggunakan python:
 
 ![python1 (2)](https://user-images.githubusercontent.com/115474431/197197848-a8bb5301-02eb-4a2e-877c-4058ec55ec0a.PNG)
 
-2. Masukan kode berikut
+2. Masukan kode berikut:
 
 #menampilkan tulisan "Hello" di layar
 
@@ -34,7 +34,7 @@ print("Saya sedang belajar python")
 
 ![python1](https://user-images.githubusercontent.com/115474431/197198294-b66d7e91-451f-4a82-ae17-dc43130e28db.PNG)
 
-3. Kemudian jalankan file tersebut lalu akan muncul hasil output yang ditampilkan seperti di bawah ini
+3. Kemudian jalankan file tersebut, lalu akan muncul hasil output yang ditampilkan seperti di bawah ini
 
 ![python2](https://user-images.githubusercontent.com/115474431/197199040-96d09144-eb6f-49ad-8e89-7f82bb345a6c.PNG)
 
@@ -44,7 +44,7 @@ print("Saya sedang belajar python")
 
 ![python3](https://user-images.githubusercontent.com/115474431/197200224-7b252864-f432-4564-b394-ea66bbf98f13.PNG)
 
-2. Masukan kode berikut
+2. Masukan kode berikut:
 
 #menjumlah dua bilangan menggunakan variabel a & b
 
@@ -69,7 +69,7 @@ print("Hasil penjumlahan a + b =", a+b)
 
 ![latihan 3](https://user-images.githubusercontent.com/115474431/197209228-e4ddf59d-9ae8-41af-a430-742779ce157a.PNG)
 
-2. Masukan kode berikut
+2. Masukan kode berikut:
 
 #input nilai variabel
 
@@ -103,7 +103,7 @@ print("Hasil pembagian {1} / {0} = %d".format(a,b) %(a/b))
 
 ![latihan 3 2](https://user-images.githubusercontent.com/115474431/197210965-94432c93-695a-429c-a21b-c7d83e460fc2.PNG)
 
-Kurang lebih seperti itu untuk penggunaan python, mohon maaf bila ada kesalahan 
+Seperti itu untuk penggunaan python, mohon maaf bila ada kesalahan 
 
 Terimakasih
 
